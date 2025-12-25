@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Designing Scalable Backend Systems & Building Modern Android Experiences**
 - 👯 I’m looking to collaborate on **Open-source Android Apps, Java Microservices, and Full-Stack Development**
-- 👨‍💻 Explore my work & live projects:  KanikaRawat.dev
+- 👨‍💻 Explore my work & live projects: [KanikaRawat.dev](https://portfolio-two-phi-c69umkwvar.vercel.app/)
 - 📫 How to reach me: **kanikaraw12@gmail.com**
 - 📄 View my Resume: [Click Here](https://drive.google.com/file/d/1TPTtXKVqTT1xFyorUoK_jeWmFT6XssNh/view?usp=sharing)
 
